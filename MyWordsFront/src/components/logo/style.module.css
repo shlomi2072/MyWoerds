@@ -1,0 +1,26 @@
+.logoContainer {
+  display: inline-block;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+  margin-top: 10px;
+  margin-left: 12.5vw;
+  background-color: #594a5e;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logoText {
+  font-size: 40px; /* Increase the font size as desired */
+  color: #fff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center
+}
+
+.logoAccent {
+  color: #ff6363;
+}
+
+
